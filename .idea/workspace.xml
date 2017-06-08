@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37183e61-9b9a-49f2-a262-66f9a97ba14b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Bomberman/Bomberman.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Bomberman/src/Coordonnees.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Bomberman/src/Joueur.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bomberman.mdj" afterPath="$PROJECT_DIR$/bomberman.mdj" />
-    </list>
+    <list default="true" id="37183e61-9b9a-49f2-a262-66f9a97ba14b" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +44,8 @@
       <file leaf-file-name="Coordonnees.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Bomberman/src/Coordonnees.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+            <state relative-caret-position="630">
+              <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
               <folding>
                 <element signature="e#362#363#0" expanded="true" />
                 <element signature="e#389#390#0" expanded="true" />
@@ -456,6 +451,32 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -561,8 +582,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Bomberman/src/Coordonnees.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        <state relative-caret-position="630">
+          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
           <folding>
             <element signature="e#362#363#0" expanded="true" />
             <element signature="e#389#390#0" expanded="true" />
